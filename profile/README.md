@@ -102,13 +102,14 @@ https://github.com/taller2-grupo12/.github/releases/tag/v1.0.0
 
 <details>
   <summary>Exposición entrega final</summary>
+
   [![Watch the video](https://img.youtube.com/vi/2x1MBHYN9QU/maxresdefault.jpg)](https://youtu.be/2x1MBHYN9QU)
 </details>
 
-## Enunciado original
+## Enunciado original del TP
 
 <details>
-  <summary>Enunciado TP 1C 2022</summary>
+  <summary>Enunciado y lineamientos TP 1C 2022</summary>
 
 # Spotifiuby
 
