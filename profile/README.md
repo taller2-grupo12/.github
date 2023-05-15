@@ -6,7 +6,7 @@ Conjunto de repositorios para Spotifiuby - Trabajo práctico de Taller de Progra
 
 ## Descripción
 
-Spotifiuby es una plataforma SaaS con fines académicos tipo Spotify, cuya función principal es el streaming de música subida por los propios usuarios.
+Spotifiuby es una plataforma SaaS con fines académicos tipo Spotify, cuya función principal es el streaming de música subida por los propios usuarios. Consta de una app Android y una app web de backoffice.
 
 ## Funcionalidades principales
 - Creación y reproducción de canciones, álbumes y playlists.
